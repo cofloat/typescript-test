@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cofloat/typescript-test/issues"
   },
-  "homepage": "https://github.com/cofloat/typescript-test#readme"
+  "homepage": "https://github.com/cofloat/typescript-test#readme",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
 }
