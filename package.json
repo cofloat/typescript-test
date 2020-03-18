@@ -18,11 +18,10 @@
     "url": "https://github.com/cofloat/typescript-test/issues"
   },
   "homepage": "https://github.com/cofloat/typescript-test#readme",
-  "dependencies": {
-    "typescript": "^3.8.3"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "ts-node": "^8.6.2",
-    "ts-node-dev": "^1.0.0-pre.44"
+    "ts-node": "^8.5.4",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.8.3"
   }
 }
